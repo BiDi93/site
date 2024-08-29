@@ -11,9 +11,7 @@ function TopBanner() {
           <Container className="topContent">
             <Row>
               <Col className="text-center">
-                <h1 className="topTitle">
-                  ERP SOLUTION FOR SMALL MEDIUM ENTERPRISE
-                </h1>
+                <h1 className="topTitle">ERP SOLUTION FOR SME</h1>
                 <h4 className="topSubtitle">Learn profesionally</h4>
                 <Button variant="primary">More Info</Button>{" "}
               </Col>
